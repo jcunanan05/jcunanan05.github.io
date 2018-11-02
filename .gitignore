@@ -8,8 +8,14 @@
 # testing
 /coverage
 
-# production
-/build
+# exclude all files except build
+/public
+/src
+.eslint.json
+CRA-README.md
+package.json
+yarn.lock
+
 
 # misc
 .DS_Store
