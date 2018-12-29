@@ -16,6 +16,8 @@ CRA-README.md
 package.json
 yarn.lock
 
+/build
+
 
 # misc
 .DS_Store
